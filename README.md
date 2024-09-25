@@ -3,13 +3,14 @@
 👋 Hi, I’m @JDR11
 **************************
 👀 I’m interested in ...
-- Game Development
+- Embedded Applications
 - Cyber Security
 **************************
 🌱 I’m currently learning ...
-- C#
-- Unity
-- Node.js
+- C++
+- C
+- Lua
+- Java
 
 <!---
 JDR11/JDR11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
